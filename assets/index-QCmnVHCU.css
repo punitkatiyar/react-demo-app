@@ -1,0 +1,1 @@
+ul{display:flex;flex-wrap:wrap;gap:20px}ul li{list-style:none}ul li a{text-decoration:none;text-transform:capitalize}.active{text-transform:uppercase}input{display:block;margin-bottom:1vh}.card{width:350px;height:20vh;background-color:#add8e6;margin:10vh auto}
